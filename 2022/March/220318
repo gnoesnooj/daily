@@ -1,0 +1,8 @@
+# 220318
+
+* 스프링 부트와 AWS 로 혼자 구현하는 웹 서비스 ~ 123p
+* 자바 ORM 표준 JPA 프로그래밍 
+  - JPQL (핵심) -> SQL 을 추상화, 특정 DB에 의존적이지 않다. 객체지향 적.
+    - QueryDSL (criteria 보다 더 직관적)
+    - Criteria  => 이 둘은 동적 쿼리가 가능하고, JPQL을 위한 Builder 역할을 함
+  - 최대한 JPQL 사용 후, 방법이 없을 때에 native SQL 사용 (DB에 종속적이기에 최대한 JPQL 후 native SQL)
