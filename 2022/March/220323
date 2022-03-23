@@ -1,0 +1,14 @@
+# 220323
+
+* 스터디 진행
+  - ! 복습 제대로 하기 !
+  - errhandler PR
+  - Board, Replycontroller 수정
+
+* 해야할 일
+  - post man 오류 해결하기 (-24) 
+    => 이후 PR 올리기 (Controller ApiResponse 에 맞게 수정한 PR)
+    => 이후 스프링 시큐리티 공부 필요 (~)
+  - 이코테 6장하기 (-24)
+  - DFS/BFS 다시 풀기 (-24)
+  
