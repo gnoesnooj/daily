@@ -1,0 +1,10 @@
+# 220331
+
+* AWS 배포
+  - DB 문제... => 1. public ip 가 아닌 private ip 를 넣어야 해결되는 문제
+  - connection error / communication timeout 에러잡기
+  
+* 스터디
+  - MSA
+  - 클린 아키텍쳐
+  - entity/ 도메인/ vo . dto
