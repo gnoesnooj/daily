@@ -1,0 +1,3 @@
+#0405 화
+- aws rds 오류 해결 -> datagrip 사용 / datagrip 할때도 똑같은 오류 (Connection fail~) 나왔는데 driver 를 mysql -> Amazon Aurora Mysql 로 바꿔주니 됐음.
+- 티모태 추가해줘야하는 것 : org.springframeswork.session:spring-session-jdbc 
