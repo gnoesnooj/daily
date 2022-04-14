@@ -41,3 +41,11 @@
     - sign up > sign in (토큰저장) > post api test
   - PR 올리기
     - PR 올리는 과정에서 실수로 main 브런치에서 커밋을 해놨음. Cherry pick 에 대해 알게됨
+
+#0413 수
+- 스터디
+
+#0414 목
+- aws 배포 오류..
+  - git 파일 못찾음
+  - deploy 파일 timotae 프로젝트 폴더 못찾음
