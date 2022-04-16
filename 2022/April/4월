@@ -49,3 +49,24 @@
 - aws 배포 오류..
   - git 파일 못찾음
   - deploy 파일 timotae 프로젝트 폴더 못찾음
+
+#0415 금
+- 응급실 견학
+
+#0416 토
+- aws 오류 여러개 해결
+  - contextLoads Fail
+    - @SpringBootTest 어노테이션 주석처리
+  - ./gradlew : Permission denied
+    - gradlew에 chmod +x
+  - java 11 설치
+    - https://velog.io/@gnoesnooj/ec2-%EC%9E%90%EB%B0%94-11-%EC%84%A4%EC%B9%98
+  - 그외
+    - root 권한 계정으로 들어가기
+      sudo su / passwd root / 사용 후 passwd -d root
+    - vim 편집기
+    
+    <해야할것>
+    - 코테준비 진짜 제대로 시작
+    - Manner Smoker 프젝 역할분담 및 시작
+    - 시스템 설계 책 읽기 !
