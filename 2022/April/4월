@@ -70,3 +70,13 @@
     - 코테준비 진짜 제대로 시작
     - Manner Smoker 프젝 역할분담 및 시작
     - 시스템 설계 책 읽기 !
+
+#0417 일
+- 스터디
+  - 가상 면접 사례로 배우는 대규모 시스템 설계 기초 10, 11장 보면서 모르는 용어 다찾아보기
+  - Transaction, @Transactional 한번 더 보기
+  - manner smoker ~
+  - JVM 구조
+  - 동적바인딩 ?
+  - 예외 > checked, unchecked (runtime <- unchecked, 컴파일 시점에 확인해야할것 -> checked, 런타임으로 실행되어야 알 수 있는 것 -> unchecked)
+  - 예외처리는 필터일까 인터셉터일까 ?
