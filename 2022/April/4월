@@ -87,3 +87,18 @@
   - https://hackmd.io/BXD5dAleRUCY2emgDsfeKw
   - 로드밸런싱 https://velog.io/@gnoesnooj/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1
 - 스터디 개념 정리 및 복습
+
+#0420 수
+- 스터디 진행
+  - 복습을 철저히 하자.. 모든 공부했던 내용이 면접에 나온다고 생각하자 !
+  - 시스템 설계 책 한번 더 보면서, 다시한번 어떤식으로 접근하고 설계하는지 볼것
+  - 더모티 리드미 작성하기
+  - 내일 역할분담 하기
+  - 배포 마무리 필요
+- 이코테 7장 이진탐색
+  - 탐색 뭐로 할지 (인덱스 vs 원소값)
+  - start, end 로 종료조건 설정
+  - 반복문으로할지, 재귀로 할지 -> 파라메트릭 서치 문제 유형 !
+  - 이진탐색 > https://velog.io/@gnoesnooj/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%96%A1-%EC%9E%90%EB%A5%B4%EA%B8%B0
+  
+  
