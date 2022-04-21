@@ -85,7 +85,7 @@
 #0419 화
 - 시스템 설계 10, 11장 > 모르는 용어, 개념 뽑아내고 찾아보기
   - https://hackmd.io/BXD5dAleRUCY2emgDsfeKw
-  - 로드밸런싱 https://velog.io/@gnoesnooj/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1
+  - 로드밸런싱
 - 스터디 개념 정리 및 복습
 
 #0420 수
@@ -99,6 +99,9 @@
   - 탐색 뭐로 할지 (인덱스 vs 원소값)
   - start, end 로 종료조건 설정
   - 반복문으로할지, 재귀로 할지 -> 파라메트릭 서치 문제 유형 !
-  - 이진탐색 > https://velog.io/@gnoesnooj/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%96%A1-%EC%9E%90%EB%A5%B4%EA%B8%B0
   
-  
+#0421 목
+- 이코테 8장 다이나믹 프로그래밍
+- 자소서 흐름 정리
+- 더모티 프로젝트 read me 작성
+- 역할분담 / 배포 마무리 필요
