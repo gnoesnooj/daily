@@ -111,3 +111,11 @@
 #0523
 - 카카오 소셜로그인 구현 ing
 - 코딩테스트 공부
+
+#0524
+- 스터디
+  - layered architecture ?
+    - repository의 계층은 ?
+  - toEntity, of 사용
+  - 카카오 소셜로그인 access token 얻는것까지 할 것
+  
