@@ -119,3 +119,12 @@
   - toEntity, of 사용
   - 카카오 소셜로그인 access token 얻는것까지 할 것
   
+#0529
+- SSAFY 응시... 핸드폰 배터리가 나가버렸다. ㅎㅎ...
+- 카카오 소셜로그인 개발 설계 변경 -> 프론트에서 access token 얻음
+  -> 테스트 할 때 access token 어떻게 진행하는지 찾아서 해보기
+  -> 이후 jwt 토큰 발급해주는 것 구현하기
+  -> 또 설계를 제대로 안해서 개발하는데에 있어서 좋지 않은 방향으로 흘러 갔던 듯함.. 월~화요일 안에 전부 구현하는 것을 목표
+- 스터디
+  - layered architecture => repository는 어느 계층일까 ?
+  - ModelMapper
