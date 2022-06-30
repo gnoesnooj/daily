@@ -89,3 +89,24 @@
 - 설계
   - 플랫폼, 도메인, 엔티티, 시스템
   - 쇼핑몰 프로젝트 기능 / 기술 스택 정리
+
+#0630
+- 스터디 진행
+  - 애그리거트가 다를 때 id를 참조하는 이유?
+  - N + 1란?
+      - 문제 해결 방법
+      - 지연 로딩, 즉시 로딩
+  - 엔티티인지, 밸류를 구별하는 방법
+  - jwt 뭔가요?
+      - jwt 구성
+  - orm과 sql mapper 차이
+  - Session / Cookie
+  - HTTP / HTTPS
+  - TCP / UDP
+  - restful
+  - rest api
+  - functional interface / lambda
+  - 사용 자바 버전 / 버전별 차이점 생각나는 부분
+  - 쿼리 검증 방법
+  - interface vs abstract class
+  
